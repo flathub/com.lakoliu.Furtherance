@@ -39,8 +39,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.5.1/furtherance-offline-1.5.1.tar.xz",
-                    "sha256" : "209aeb2554eb0b620f5865312d724d023c218a7e8a7110077100d9c5b8d4a763"
+                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.5.2/furtherance-offline-1.5.2.tar.xz",
+                    "sha256" : "657da060365ae227ef0f9c5c4fea9031a12076e0077aec1bb8f861fc2133b3ce"
                 }
             ]
         }
