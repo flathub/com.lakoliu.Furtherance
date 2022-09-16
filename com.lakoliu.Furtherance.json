@@ -42,6 +42,10 @@
                     "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.5.4/furtherance-offline-1.5.4.tar.xz",
                     "sha256" : "fffc90c9d9caa3001bb51d4d4f0bc13e03c464719c0b9df23bb96c601b004507"
                 }
+                {
+		    "type": "file",
+          	    "path": "com.lakoliu.Furtherance.appdata.xml"
+        	}
             ]
         }
     ]
