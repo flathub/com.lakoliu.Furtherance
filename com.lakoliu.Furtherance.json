@@ -1,7 +1,7 @@
 {
     "app-id" : "com.lakoliu.Furtherance",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "43",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -12,7 +12,8 @@
         "--socket=fallback-x11",
         "--device=dri",
         "--socket=wayland",
-        "--talk-name=org.gnome.Mutter.IdleMonitor"
+        "--talk-name=org.gnome.Mutter.IdleMonitor",
+        "--filesystem=xdg-documents"
     ],
     "build-options" : {
         "append-path" : "/usr/lib/sdk/rust-stable/bin",
@@ -39,8 +40,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.6.0/furtherance-offline-1.6.0.tar.xz",
-                    "sha256" : "91e335a21feb64a2d67e684c023a6475c44ed0ed0afd584684635106f12c6f12"
+                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.7.0/furtherance-offline-1.7.0.tar.xz",
+                    "sha256" : "28034107373340d487a053f849c67d828737f3af844b7f40b0fc4b5509a1c5f8"
                 }
             ]
         }
