@@ -1,7 +1,7 @@
 {
     "app-id" : "com.lakoliu.Furtherance",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -40,8 +40,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.8.1/furtherance-offline-1.8.1.tar.xz",
-                    "sha256" : "94d0ad18a9038e6777de1fc90275e10b81971850d382c7a45f1bd7cb00c35119"
+                    "url" : "https://github.com/lakoliu/Furtherance/releases/download/v1.8.2/furtherance-offline-1.8.2.tar.xz",
+                    "sha256" : "8b96d961fa86821128a3c4e5fd2ab65ddd9285e824b1e29fef80ec1bb2167eb8"
                 }
             ]
         }
